@@ -1,8 +1,57 @@
-# React + Vite
+Communion Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo
 
-Currently, two official plugins are available:
+Communion Assignment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Overview
+
+Communion Assignment is a web-based project designed to showcase key functionalities and modern UI design. The application is built using the latest web technologies to ensure responsiveness, performance, and user-friendly interactions.
+
+Features
+
+Responsive design for seamless viewing across devices
+
+Interactive user interface
+
+Efficient state management
+
+Modern UI components for an enhanced user experience
+
+Technologies Used
+
+Frontend: React.js, Tailwind CSS
+
+Deployment: Netlify
+
+Installation
+
+To run the project locally, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/your-username/communion-assignment.git
+
+Navigate to the project directory:
+
+cd communion-assignment
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm start
+
+Deployment
+
+The project is deployed on Netlify. Any updates to the repository will trigger an automatic deployment.
+
+Contributing
+
+Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
+
+License
+
+This project is licensed under the MIT License.
